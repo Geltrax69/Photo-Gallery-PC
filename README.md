@@ -14,6 +14,15 @@
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript)
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshot-ui.png" alt="Photo-Gallery-PC UI" width="100%" />
+  <br />
+  <em>Desktop photo gallery — 50 photos.</em>
+</p>
+
+
 ## What it is
 
 The desktop counterpart to Photo-Gallery-PHONE: the same 50-photo static gallery, but with a desktop-optimised stylesheet (`d1.css` is the only file that differs between the two repos). Same card grid, download buttons, and Previous/Next pagination cycling six photos at a time. Pure HTML/CSS/vanilla JS, zero dependencies.
